@@ -1,0 +1,80 @@
+body {
+	background-color: gray;
+}
+
+.container {
+	margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+.left-side {
+	width: 40%;
+	float: left;
+	margin-right: 20px;
+}
+
+.hr-social-medias {
+	width: 80%;
+	height: 10px;
+	background-color: yellow;
+}
+
+.media-icons {
+	width: 80%;
+	background-color: green;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.social-medias-list {
+	list-style-type: none;
+}
+
+.smi {
+	display: inline;
+}
+
+.social {
+	height: 50px;
+	width: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.user-profile {
+	border-radius: 50%;
+	border: solid black 5px;
+}
+
+.hr-user-info {
+	width: 40%;
+	height: 5px;
+	background-color: green;
+}
+
+.icon-list {
+	list-style-type: none;
+}
+
+.icon {
+	height: 40px;
+	width: 40px;
+	background-color: green;
+}
+
+.ic {
+	display: inline;
+}
+
+.hr-links {
+	width: 40%;
+	height: 5px;
+	background-color: purple;
+}
+
+.hr-content {
+	width: 80%;
+	height: 10px;
+	background-color: orange;
+}
