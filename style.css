@@ -128,3 +128,13 @@ a:hover {
 	border-top-right-radius: 10px;
 	margin-bottom: 10px;
 }
+
+.main-content {
+	background-color: white;
+	width: 60%;
+	margin-left: 445px;
+}
+
+.profile-content, .personal-info-content {
+	border: solid black 1px;
+}
